@@ -113,3 +113,23 @@ var again = prompt("Vill Du Spela Igen: Y / N");
     playAgain = false;
   }
 }
+
+
+
+/*
+
+var getValue = document.getElementById("submit");
+
+
+
+function f1 (){
+  var x = document.getElementById("firstName").value;
+  console.log("Värdet är " + x);
+  document.getElementById("text").innerHTML = x + " Detta verkar fungera!";
+}
+
+
+
+getValue.onclick = f1;
+
+*/
